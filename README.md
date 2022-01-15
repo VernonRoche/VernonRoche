@@ -38,7 +38,7 @@
 
 <h2 align="center">⚡ Find out more about me on https://www.alexandros-stergiou.com/ ⚡</h2>
 
-### ✨ Top Repositories ✨
+### ✨✨ Top Repositories ✨✨
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS)](https://github.com/VernonRoche/Ardas-Legend-Bot-JS)
