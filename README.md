@@ -18,6 +18,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-red?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++"/>
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-OCaml-orange?style=flat-square&logo=ocaml"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -38,15 +39,4 @@
 
 ### ✨ Top Repositories ✨
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=JoliciteFX" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=D-D-Discord-Bot" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
