@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </a>
 
 <h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ 
-![Logo White - Copy](https://user-images.githubusercontent.com/44172223/149630641-84e4c34f-b1e8-4243-be29-d8bc54f7d08c.jpg)
+![Logo White - Copy](https://user-images.githubusercontent.com/44172223/149630707-13ca8d10-9260-461e-b33c-0561c2e3618c.jpg)
+
 
 
 <h2 align="center">Known Technologies
