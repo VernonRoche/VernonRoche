@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ ![Logo White - Copy](https://user-images.githubusercontent.com/44172223/149630641-84e4c34f-b1e8-4243-be29-d8bc54f7d08c.jpg)
+<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ 
+![Logo White - Copy](https://user-images.githubusercontent.com/44172223/149630641-84e4c34f-b1e8-4243-be29-d8bc54f7d08c.jpg)
 
 
 <h2 align="center">Known Technologies
