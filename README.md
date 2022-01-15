@@ -8,7 +8,7 @@
 * ⚡ Playing music and video games in my free time
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham" />
@@ -30,13 +30,21 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Solr-orange?style=flat-square&logo=apache-solr"/>
+  <img src="https://img.shields.io/badge/-Assembly-informational?style=flat-square&logo=pastebin"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Scaleway-blueviolet?style=flat-square&logo=Scaleway"/>
 </p>
 
-<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ </h2>
+<h2 align="center">⚡ Find out more about me on https://www.alexandros-stergiou.com/ ⚡</h2>
 
 ### ✨ Top Repositories ✨
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS)](https://github.com/VernonRoche/Ardas-Legend-Bot-JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=D-D-Discord-Bot)](https://github.com/VernonRoche/D-D-Discord-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/JoliciteFX)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VernonRoche&theme=gotham)](https://git.io/streak-stats)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=38u8tk1ycty24v1l8ryrv40jq&count=3)
