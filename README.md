@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham" />
 </a>
 
 <h2 align="center">Known Technologies </h2>
