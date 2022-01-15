@@ -22,15 +22,16 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ 
+<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ </h2>
 ![Logo White - Copy](https://user-images.githubusercontent.com/44172223/149630707-13ca8d10-9260-461e-b33c-0561c2e3618c.jpg)
 
 
 
-<h2 align="center">Known Technologies
+<h2 align="center">Known Technologies </h2>
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
