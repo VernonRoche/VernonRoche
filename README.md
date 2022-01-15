@@ -11,11 +11,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-
-<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ </h2>
-
 
 <h2 align="center">Known Technologies </h2>
 <p align="center">
@@ -36,6 +33,8 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Scaleway-blueviolet?style=flat-square&logo=Scaleway"/>
 </p>
+
+<h2 align="center"> Find out more about me on https://www.alexandros-stergiou.com/ </h2>
 
 ### ✨ Top Repositories ✨
 
