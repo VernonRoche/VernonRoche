@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/-java-red?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++"/>
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-Machine_Learning-green?style=flat-square&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/-OCaml-orange?style=flat-square&logo=ocaml"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
