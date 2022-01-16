@@ -7,12 +7,21 @@
 * 💬 Currently preparing a Master's Degree in the University of Bordeaux
 * ⚡ Playing music and video games in my free time
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&theme=gotham" />
-</a>
+
+    
+    <div class="row">
+  <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernonRoche&langs_count=7&theme=gotham&exclude_repo=Python-ML,Solr-Template" />
+    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VernonRoche&theme=gotham" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
+    </a>
+    
+    </div>
+    
 
 <h2 align="center">Known Technologies </h2>
 <p align="center">
@@ -45,7 +54,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS)](https://github.com/VernonRoche/Ardas-Legend-Bot-JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=D-D-Discord-Bot)](https://github.com/VernonRoche/D-D-Discord-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=LEA-Compilator)](https://github.com/VernonRoche/LEA-Compilator)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VernonRoche&theme=gotham)](https://git.io/streak-stats)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=38u8tk1ycty24v1l8ryrv40jq&count=3)
