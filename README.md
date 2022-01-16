@@ -44,7 +44,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS)](https://github.com/VernonRoche/Ardas-Legend-Bot-JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=D-D-Discord-Bot)](https://github.com/VernonRoche/D-D-Discord-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=JoliciteFX)](https://github.com/VernonRoche/JoliciteFX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=LEA-Compilator)](https://github.com/VernonRoche/LEA-Compilator)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VernonRoche&theme=gotham)](https://git.io/streak-stats)
 
