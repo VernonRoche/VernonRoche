@@ -17,7 +17,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VernonRoche&theme=gotham" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=prs,issues&count_private=true&show_icons=true&theme=gotham" />
+     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=VernonRoche&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=gotham" />
     </a>
     
     </div>
