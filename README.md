@@ -53,6 +53,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS)](https://github.com/VernonRoche/Ardas-Legend-Bot-JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Solr-Template)](https://github.com/VernonRoche/Solr-Template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=LEA-Compilator)](https://github.com/VernonRoche/LEA-Compilator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Bomberman)](https://github.com/VernonRoche/Bomberman)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=38u8tk1ycty24v1l8ryrv40jq&count=3)
