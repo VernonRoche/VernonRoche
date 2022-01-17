@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++"/>
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-Machine_Learning-green?style=flat-square&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/-OCaml-orange?style=flat-square&logo=ocaml"/>
+  <img src="https://img.shields.io/badge/-OCaml-lightgrey?style=flat-square&logo=ocaml"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Solr-orange?style=flat-square&logo=apache-solr"/>
   <img src="https://img.shields.io/badge/-Assembly-informational?style=flat-square&logo=pastebin"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
