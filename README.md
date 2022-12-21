@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/-Scaleway-blueviolet?style=flat-square&logo=Scaleway"/>
 </p>
 
-<h2 align="center">⚡ Find out more about me on https://www.alexandros-stergiou.com/ ⚡</h2>
 
 ### ✨✨ Top Repositories ✨✨
 
