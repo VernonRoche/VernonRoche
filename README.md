@@ -48,7 +48,7 @@
 
 ### ✨✨ Top Repositories ✨✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Solr-Template)](https://github.com/VernonRoche/Solr-Template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Bomberman)](https://github.com/VernonRoche/Bomberman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Nachos)](https://github.com/VernonRoche/Nachos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Solr-Template)](https://github.com/VernonRoche/Solr-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Bomberman)](https://github.com/VernonRoche/Bomberman)
 
