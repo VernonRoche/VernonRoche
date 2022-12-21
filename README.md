@@ -51,7 +51,6 @@
 ### ✨✨ Top Repositories ✨✨
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Nachos)](https://github.com/VernonRoche/Nachos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Ardas-Legend-Bot-JS)](https://github.com/VernonRoche/Ardas-Legend-Bot-JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Solr-Template)](https://github.com/VernonRoche/Solr-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=gotham&repo=Bomberman)](https://github.com/VernonRoche/Bomberman)
 
