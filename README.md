@@ -48,7 +48,7 @@
 ### ✨✨ Top Repositories ✨✨
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Desert-Fox)](https://github.com/VernonRoche/Desert-Fox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Nachos)](https://github.com/VernonRoche/Nachos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ardas-Legends-Development-Team&theme=buefy&repo=AL-frontend)](https://github.com/Ardas-Legends-Development-Team/AL-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Solr-Template)](https://github.com/VernonRoche/Solr-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Crypto-Dev-Web)](https://github.com/VernonRoche/Crypto-Dev-Web)
 
