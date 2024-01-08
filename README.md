@@ -4,7 +4,8 @@
 <h2 align="center"> Some words about me: </h2>
 
 * 💻 French/Greek software engineer
-* 💬 Currently preparing a Master's Degree in the University of Bordeaux
+* ⚡ Software Engineer consultant at Randstad Digital
+* 💬 Master's Degree in Software Engineering at the University of Bordeaux
 * ⚡ Playing music and video games in my free time
 
 
