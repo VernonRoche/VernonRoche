@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=VernonRoche&color=brightgreen)
 <h2 align="center"> Some words about me: </h2>
 
+Jetbrains request ID for OSS: 6151447
+
 * 💻 French/Greek software engineer
 * ⚡ Software Engineer consultant at Randstad Digital
 * 💬 Master's Degree in Software Engineering at the University of Bordeaux
