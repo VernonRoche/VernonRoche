@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=VernonRoche&color=brightgreen)
 <h2 align="center"> Some words about me: </h2>
 
-Jetbrains request ID for OSS: 6151447
-
 * 💻 French/Greek software engineer
 * ⚡ Software Engineer consultant at Randstad Digital
 * 💬 Master's Degree in Software Engineering at the University of Bordeaux
@@ -28,29 +26,30 @@ Jetbrains request ID for OSS: 6151447
 
 <h2 align="center">Known Technologies </h2>
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue"/>
 <img src="https://img.shields.io/badge/-java-red?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-Machine_Learning-green?style=flat-square&logo=tensorflow"/>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555"/>
+
+<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=phpstorm"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Solr-orange?style=flat-square&logo=apache-solr"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Scaleway-blueviolet?style=flat-square&logo=Scaleway"/>
+     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+       <img src="https://img.shields.io/badge/-Machine_Learning-green?style=flat-square&logo=tensorflow"/>
 </p>
 
 
 ### ✨✨ Top Repositories ✨✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Desert-Fox)](https://github.com/VernonRoche/Desert-Fox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ardas-Legends-Development-Team&theme=buefy&repo=Ardas-Legends-App-Renewed)](https://github.com/Ardas-Legends-Development-Team/Ardas-Legends-App-Renewed)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ardas-Legends-Development-Team&theme=buefy&repo=AL-frontend)](https://github.com/Ardas-Legends-Development-Team/AL-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Solr-Template)](https://github.com/VernonRoche/Solr-Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VernonRoche&theme=buefy&repo=Crypto-Dev-Web)](https://github.com/VernonRoche/Crypto-Dev-Web)
